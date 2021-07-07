@@ -19,7 +19,7 @@ RUN yarn run build
 
 # ----------------------------------
 # Prepare production environment
-FROM nginx:alpine
+FROM nginx:1.21-alpine
 # ----------------------------------
 
 # Clean nginx
