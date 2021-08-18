@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "concurrently": "^3.2.0",
-    "copy-webpack-plugin": "^4.0.1"
+    "copy-webpack-plugin": "^5.0.0"
   },
   "repository": {}
 }
